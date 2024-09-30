@@ -8,7 +8,7 @@ I am Coke Stuyck 😃. I am from Valencia, Spain and currently studying a Master
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript (Node.js), CSS (Sass).**.
+- Front-end development using **HTML, Javascript (Node.js), CSS (Sass).**
 - Robust full-stack system design implementation.
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤓
