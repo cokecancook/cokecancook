@@ -12,7 +12,7 @@ Talk to me about:
 - Robust full-stack system design implementation.
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤓
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - 🎯 Graphic Design Portfolio site: [Portfolio](https://cokestuyck.webflow.io/).
 - 👾 Front End playground: [Playground](https://github.com/cokecancook/cokecancook.github.io/).
 - ⚡ Fun fact: Internet users blink less than usual.
