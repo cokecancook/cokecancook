@@ -4,14 +4,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-cokestuyck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cokestuyck/)](https://www.linkedin.com/in/cokestuyck/)
 [![Gmail Badge](https://img.shields.io/badge/-coke.stuyck@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coke.stuyck@gmail.com)](mailto:coke.stuyck@gmail.com)
 
-I am Coke Stuyck 😃. I am from Valencia, Spain and currently studying a Masters Degree in Artificial Intelligence in EDEM Business School 🏫. Graphic design has been my passion for almost 20 years and I've been a web designer most of the time. I love to explore and learn about new things.
+I am Coke Stuyck 😃 from Valencia, Spain.
+🤓 Currently studying a Masters Degree in Artificial Intelligence in EDEM Business School.
+Graphic design has been my <p style="color:blue">p</p>assion for almost 20 years and I've been a web designer most of the time. I love to explore and learn about new things.
 
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript (Node.js), CSS (Sass).**
 - Robust full-stack system design implementation.
 - Solving Data structure and algorithm questions in **Java and Python**.
-## Hello World!! 🤓
+## Hello World!! 
 - 💬 Ask me about anything and everything.
 - 🎯 Graphic Design Portfolio site: [Portfolio](https://cokestuyck.webflow.io/).
 - 👾 Front End playground: [Playground](https://cokecancook.github.io/).
