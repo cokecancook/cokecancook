@@ -1,12 +1,11 @@
-<img align="left" src="https://cdn.prod.website-files.com/65f1f380796af02ae8b5fa68/667c274dca93ab782c5da7ee_hero-avatar-circle.png" width="250px">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cokecancook&show_icons=true&icon_color=CE1D2D&text_color=222222&bg_color=00000000&hide_title=true&hide_border=true" />
+![Hello.gif](https://github.com/cokecancook/cokecancook/blob/main/hello.gif?raw=true)
 
-# Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>
+# 👋🏼 Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-cokestuyck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cokestuyck/)](https://www.linkedin.com/in/cokestuyck/)
 [![Gmail Badge](https://img.shields.io/badge/-coke.stuyck@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coke.stuyck@gmail.com)](mailto:coke.stuyck@gmail.com)
 
-👋🏼 I am Coke Stuyck 😃 based in Valencia, Spain
+I am Coke Stuyck 😃 based in Valencia, Spain
 (yes, I'm Spanish).
 
 - 🤓 Currently studying a Masters Degree in Artificial Intelligence in EDEM Business School.
