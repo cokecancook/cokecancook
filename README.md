@@ -23,7 +23,7 @@ Talk to me about:
 - 🎯 [Portfolio](https://cokestuyck.webflow.io/) website (always incomplete)
 - 🗂️ Work in [Behance](https://www.behance.net/cokestuyck)
 - 👾 HTML + CSS [Playground](https://cokecancook.github.io/) ([Frontend Mentor](https://www.frontendmentor.io) exercises) 
-- 🎹 Playing the piano and signing will be my forever therapy.
-- 🏀 I'm still competing in basktball and hit the gym often for mental health and to avoid injuries.
+- 🎹 Playing the piano and signing keep me happy.
+- 🏀 I'm still competing in basketball and hit the gym often to avoid injuries.
 - ⚡ Fun fact: Internet users blink less than usual.
 - I love to explore and learn about new things.
