@@ -1,29 +1,46 @@
 ![Hello.gif](https://github.com/cokecancook/cokecancook/blob/main/hello.gif?raw=true)
 
-# 👋🏼 Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>
-
 [![Linkedin Badge](https://img.shields.io/badge/-cokestuyck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cokestuyck/)](https://www.linkedin.com/in/cokestuyck/)
 [![Gmail Badge](https://img.shields.io/badge/-coke.stuyck@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coke.stuyck@gmail.com)](mailto:coke.stuyck@gmail.com)
 
-I am Coke Stuyck 😃 based in Valencia, Spain
-(yes, I'm Spanish).
+---
 
-- 🤓 Currently studying a Masters Degree in Artificial Intelligence in EDEM Business School.
-- 🖥️ Graphic design has been my passion (for real 😅) for almost 20 years and I've been a web designer most of the time.
-- 🎓 In my last job I worked as an E-learning Specialist.
+# 👋 Hello there! I’m Coke Stuyck
 
-## ⚡ Technologies
-Talk to me about:
-- Front-end development using **HTML, Javascript (Node.js), CSS (Sass).**
-- Robust full-stack system design implementation.
-- Solving Data structure and algorithm questions in **Java and Python**.
+🎨 **Designer & AI Specialist with a frontend mindset**  
+For 15+ years, I’ve been creating brands and crafting user experiences. Now I’m exploring how **code and AI** can unlock even smarter, more human-centered tools.  
 
-## Want to know more? 
-- 💬 Ask me about anything and everything.
-- 🎯 [Portfolio](https://cokestuyck.webflow.io/) website (always incomplete)
-- 🗂️ Work in [Behance](https://www.behance.net/cokestuyck)
-- 👾 HTML + CSS [Playground](https://cokecancook.github.io/) ([Frontend Mentor](https://www.frontendmentor.io) exercises) 
-- 🎹 Playing the piano and signing keep me happy.
-- 🏀 I'm still competing in basketball and hit the gym often to avoid injuries.
-- ⚡ Fun fact: Internet users blink less than usual.
-- I love to explore and learn about new things.
+---
+
+## 🌱 What Drives Me
+- 🎨 Bringing **clarity and beauty** to complex problems.  
+- 🖥 Building **intuitive, responsive interfaces**.  
+- 🤖 Designing **AI systems** that feel natural to use.  
+- 🌍 Learning every day to stay ahead in this fast-moving world.  
+
+---
+
+## 📂 AI Master’s Projects Hub
+An index of projects built during my [Master’s in AI (EDEM Business School)](https://edem.eu/master-inteligencia-artificial/):
+- 🧠 Machine Learning & Data Science
+- 🦾 Agents & Automations
+- 🎨 AI + Design experiments
+➡️ [View Projects Repository](#) *(coming soon)*
+
+---
+
+## 🚀 Where to Find Me
+- 🌐 [Portfolio Website](https://cokestuyck.webflow.io/)
+- 🎨 [Behance Work](https://www.behance.net/cokestuyck)
+- 🔈 [Figma Personal Project](https://www.figma.com/@cokestuyck)
+- 👾 [Frontend Playground](#) *(coming soon)*
+
+---
+
+## ☀️ Off-screen
+When away from the keyboard, you’ll find me:
+🎹 playing the piano, 🎤 singing, 🏀 shooting hoops, 🏋️‍♂️ lifting weights, 🐾 walking with Coco or 🏖️ swimming at the beach.
+
+---
+
+*“Good design isn’t just about looks: it’s about how it works, how it feels, and how it empowers people. That’s what I’m here to create.”*
