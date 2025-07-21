@@ -22,8 +22,10 @@ For 15+ years, I’ve been creating brands and crafting user experiences. Now I�
 
 ## 📂 AI Master’s Projects Hub
 An index of projects built during my [Master’s in AI (EDEM Business School)](https://edem.eu/master-inteligencia-artificial/):
-- 🧠 Machine Learning & Data Science
-- 🦾 Agents
+- 📊 Data Science
+- 🧠 Machine Learning
+- 🤖 Agents
+  
 ➡️ [View Projects Repository](https://github.com/cokecancook/AI-Master-Projects-Hub/)
 
 ---
