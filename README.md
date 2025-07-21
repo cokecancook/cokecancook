@@ -8,7 +8,7 @@
 # 👋 Hello there! I’m Coke Stuyck
 
 🎨 **Designer & AI Specialist with a frontend mindset**  
-For 15+ years, I’ve been creating brands and crafting user experiences. Now I’m exploring how **code and AI** can unlock even smarter, more human-centered tools.  
+For 15+ years, I’ve been creating brands and crafting user experiences. Now I’m exploring how **AI** can unlock even smarter, more human-centered tools.  
 
 ---
 
