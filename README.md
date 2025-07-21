@@ -1,8 +1,5 @@
 ![Hello.gif](https://github.com/cokecancook/cokecancook/blob/main/hello.gif?raw=true)
 
-[![Linkedin Badge](https://img.shields.io/badge/-cokestuyck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cokestuyck/)](https://www.linkedin.com/in/cokestuyck/)
-[![Gmail Badge](https://img.shields.io/badge/-coke.stuyck@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coke.stuyck@gmail.com)](mailto:coke.stuyck@gmail.com)
-
 ---
 
 # 👋 Hello there! I’m Coke Stuyck
