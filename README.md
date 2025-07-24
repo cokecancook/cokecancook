@@ -29,9 +29,9 @@ An index of projects built during my [Master’s in AI (EDEM Business School)](h
 
 ## 🚀 Where to Find Me
 - 🌐 [Portfolio Website](https://cokestuyck.webflow.io/)
-- 🎨 [Behance Work](https://www.behance.net/cokestuyck)
-- 🔈 [Figma Personal Project](https://www.figma.com/@cokestuyck)
-- 👾 [Frontend Playground](#) *(coming soon)*
+- 🎨 [Behance](https://www.behance.net/cokestuyck)
+- 🔈 [Figma](https://www.figma.com/@cokestuyck)
+- 💼 [Linkedin](https://www.linkedin.com/in/cokestuyck/)
 
 ---
 
